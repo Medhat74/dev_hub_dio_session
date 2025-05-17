@@ -1,4 +1,4 @@
-# dev_hub_cubit_session
+# dev_hub_dio_session
 
 A new Flutter project.
 
